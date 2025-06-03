@@ -1,0 +1,18 @@
+.p{
+    text-align: center;
+}
+.min{
+   display: flex;
+   justify-content: flex-end;
+}
+.pic:hover{
+    transform:scale(1.2) ;
+}
+.c-img{
+    background-image: url(https://img.freepik.com/free-vector/gradient-background-green-modern-designs_343694-2067.jpg);
+    background-size: cover;
+}
+.m-img{
+    background-image: url(https://img.freepik.com/premium-photo/abstract-background-design-hd-light-active-green_851755-19479.jpg);
+    background-size: cover;
+}
